@@ -1,3 +1,5 @@
-# Data-Mining-script
+# data-mining-solution
 
-1. RNN LSTM/GRU script piece for training and testing
+* `Ali-Mobile-Recommendation` - purchase prediction contest
+
+* `RNN` - LSTM/GRU script piece for training and testing
